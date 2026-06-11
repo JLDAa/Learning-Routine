@@ -4,10 +4,22 @@
       <summary><h2>Learn Path</h2></summary>
         <details>
           <summary><h3>Core MATLAB Skills</h3></summary>
-            <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/01_Matlab_Onramp.jpg" width="300">
+            <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/01_ Core MATLAB Skills.jpg" width="800">
               <details>
-                <summary>MATLAB Desktop Tools and Troubleshooting Scripts</summary>
-                <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/01_Matlab_Onramp.jpg" width="300">
+                <summary> MATLAB Desktop Tools and Troubleshooting Scripts  </summary>
+                <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-01.jpg" width="700">
+              </details>
+              <details>
+                <summary>Explore Data with MATLAB Plots </summary>
+                <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-02.jpg" width="700">
+              </details>
+              <details>
+                <summary> Make and Manipulate Matrices </summary>
+                <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-03.jpg" width="700">
+              </details>
+              <details>
+                <summary>Calculations with Vectors and Matrices</summary>
+                <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-04.jpg" width="700">
               </details>
         </details>
         <details>
