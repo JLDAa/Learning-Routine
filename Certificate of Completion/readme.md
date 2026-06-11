@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td><img src="./Certificate of Completion/assects/MathWorks/Matlab/01_Matlab onramp.jpg" width="140"></td>
-    <td><img src="./Certificate of Completion/assects/MathWorks/Matlab/01_Matlab onramp.jpg" width="140"></td>
+    
   </tr>
 </table>
 </details>
