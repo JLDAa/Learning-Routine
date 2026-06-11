@@ -1,4 +1,4 @@
-<h1>Certificate_of_Completion</h1>
+<h1 align="center">Certificate of Completion</h1>
 
 <details>
    <summary><h1>MathWorks</h1></summary>
