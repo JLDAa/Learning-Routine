@@ -1,4 +1,4 @@
-<h1 align="center">CATIA 3D-Model Practice from Udemy Course</h1>
+<h1 align="center">CATIA 3D-Model Practice</h1>
 <p align="center">
   <img src="./assects/19.png">
   <img src="./assects/20.png">
