@@ -28,4 +28,6 @@
   <img src="./assects/P26.png">
   <img src="./assects/P27.png">
   <img src="./assects/P28.png">
+  <img src="./assects/P29.png">
+  <img src="./assects/P30.png">
 </p>
