@@ -29,5 +29,15 @@
   <img src="./assects/P27.png">
   <img src="./assects/P28.png">
   <img src="./assects/P29.png">
-  <img src="./assects/P30.png">
+  <img src="./assects/P31.png">
+  <img src="./assects/P32.png">
+  <img src="./assects/P33.png">
+  <img src="./assects/P34.png">
+  <img src="./assects/P35.png">
+  <img src="./assects/P36.png">
+  <img src="./assects/P37.png">
+  <img src="./assects/P38.png">
+  <img src="./assects/P39.png">
+  <img src="./assects/P40.png">
+  
 </p>
