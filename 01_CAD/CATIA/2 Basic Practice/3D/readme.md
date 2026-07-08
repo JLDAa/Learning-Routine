@@ -15,4 +15,12 @@
   <img src="./assects/P61.png">
   <img src="./assects/P62.png">
   <img src="./assects/P63.png">
+  <img src="./assects/P64.png">
+  <img src="./assects/P65.png">
+  <img src="./assects/P66.png">
+  <img src="./assects/P67.png">
+  <img src="./assects/P68.png">
+  <img src="./assects/P69.png">
+  <img src="./assects/P70.png">
+  
 </p>
