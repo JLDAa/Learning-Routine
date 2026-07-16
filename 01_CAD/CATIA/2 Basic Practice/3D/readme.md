@@ -24,4 +24,8 @@
   <img src="./assects/P70.png">
   <img src="./assects/P71.png">
   <img src="./assects/P72.png">
+  <img src="./assects/P73.png">
+  <img src="./assects/P74.png">
+  <img src="./assects/P75.png">
+  <img src="./assects/P76.png">
 </p>
