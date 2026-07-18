@@ -30,4 +30,8 @@
   <img src="./assects/P76.png">
   <img src="./assects/P77.png">
   <img src="./assects/P78.png">
+  <img src="./assects/P79.png">
+  <img src="./assects/P80.png">
+  <img src="./assects/P81.png">
+  <img src="./assects/P82.png">
 </p>
