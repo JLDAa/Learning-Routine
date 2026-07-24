@@ -46,4 +46,6 @@
   <img src="./assects/P92.png">
   <img src="./assects/P93.png">
   <img src="./assects/P94.png">
+  <img src="./assects/P95.png">
+  <img src="./assects/P96.png">
 </p>
