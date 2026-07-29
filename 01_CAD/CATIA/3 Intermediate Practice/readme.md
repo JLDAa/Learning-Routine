@@ -23,4 +23,7 @@
   <img src="./assects/IN_021.png">
   <img src="./assects/IN_022.png">
   <img src="./assects/IN_023.png">
+  <img src="./assects/IN_024.png">
+  <img src="./assects/IN_025.png">
+  <img src="./assects/IN_026.png">
 </p>
