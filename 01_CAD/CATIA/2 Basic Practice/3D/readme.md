@@ -1,6 +1,6 @@
 <h1 align="center">CATIA Basic 3D Practice</h1>
 <p align="center">
-  <img src="./assects/P049.png">
+  <img src="assects/P049.png">
   <img src="./assects/P050.png">
   <img src="./assects/P051.png">
   <img src="./assects/P052.png">
