@@ -55,7 +55,7 @@
   <img src="./assects/IN_053.png">
   <img src="./assects/IN_054.png">
   <img src="./assects/IN_055.png">
-  <img src="./assects/IN_055.png">
   <img src="./assects/IN_056.png">
   <img src="./assects/IN_057.png">
+  
 </p>
